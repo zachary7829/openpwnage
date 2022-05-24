@@ -43,13 +43,24 @@ iOS 9.X 32bit Semi-Untethered jailbreak
 - iOS 9.2.1 Beta 1
 - iOS 9.2
 - iOS 9.2 Beta 4
+- iOS 9.2 Beta 3
+- iOS 9.2 Beta 2
+- iOS 9.2 Beta 1
 - iOS 9.1
 - iOS 9.1 Beta 5
 - iOS 9.1 Beta 4
+- iOS 9.1 Beta 3
+- iOS 9.1 Beta 2
+- iOS 9.1 Beta 1
 - iOS 9.0.2
 - iOS 9.0.1
 - iOS 9.0
 - iOS 9.0 GM
+- iOS 9.0 Beta 5
+- iOS 9.0 Beta 4
+- iOS 9.0 Beta 3
+- iOS 9.0 Beta 2
+- iOS 9.0 Beta 1
 
 ## Credits:
 
