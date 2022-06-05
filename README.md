@@ -66,4 +66,4 @@ iOS 9.X 32bit Semi-Untethered jailbreak
 
 - jailbreak made by zachary7829
 - (jk?) kpmap patch
-- spv/p0laris for remount (which currently is disabled since it doesn't work in openpwnage at the moment)
+- spv/p0laris for remount
