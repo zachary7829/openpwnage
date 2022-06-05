@@ -14,6 +14,7 @@ iOS 9.X 32bit Semi-Untethered jailbreak (Will be open source soon)
 
 ## Supported Firmwares:
 
+- iOS 9.3.6
 - iOS 9.3.5
 - iOS 9.3.4
 - iOS 9.3.3
