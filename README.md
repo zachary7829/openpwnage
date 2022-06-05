@@ -1,5 +1,5 @@
 # openpwnage
-iOS 9.X 32bit Semi-Untethered jailbreak
+iOS 9.X 32bit Semi-Untethered jailbreak (Will be open source soon)
 
 ## Supported Devices:
 
