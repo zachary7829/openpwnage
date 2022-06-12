@@ -28,7 +28,6 @@ iOS 9.X 32bit Semi-Untethered jailbreak (Will be open source soon)
 - iOS 9.3.2 Beta 3
 - iOS 9.3.2 Beta 2
 - iOS 9.3.2 Beta 1
-- iOS 9.3.2
 - iOS 9.3.1
 - iOS 9.3
 - iOS 9.3 Beta 7
