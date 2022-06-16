@@ -1,5 +1,5 @@
 # openpwnage
-iOS 9.X 32bit Semi-Untethered jailbreak (Will be open source soon)
+Open source iOS 9.X 32bit Semi-Untethered jailbreak
 
 ## Supported Devices:
 
@@ -66,4 +66,4 @@ iOS 9.X 32bit Semi-Untethered jailbreak (Will be open source soon)
 
 - jailbreak made by zachary7829
 - (jk?) kpmap patch
-- spv/p0laris for remount
+- spv/p0laris for patchfinder
