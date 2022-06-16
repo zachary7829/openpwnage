@@ -56,7 +56,7 @@ NSString *KernelVersion(void) {
     
     return [NSString stringWithUTF8String:newkernv];
 }
-//below is from doubleh3lix
+//below mac_policy_ops struct is from doubleh3lix (no, LGPLv3 is not needed for this)
 
 struct mac_policy_ops {
     uint32_t mpo_audit_check_postselect;
