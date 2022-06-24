@@ -61,9 +61,6 @@ Open source iOS 8.4b4-9.3.6 32bit Semi-Untethered jailbreak
 - iOS 9.0 Beta 3
 - iOS 9.0 Beta 2
 - iOS 9.0 Beta 1
-
-## (Buggy) Support
-
 - iOS 8.4.1
 - iOS 8.4.1 Beta 2 (Untested)
 - iOS 8.4.1 Beta 1 (Untested
@@ -75,4 +72,4 @@ Open source iOS 8.4b4-9.3.6 32bit Semi-Untethered jailbreak
 - jailbreak made by zachary7829
 - (jk?) kpmap patch
 - spv/p0laris for patchfinder
-- dora2-ios for part of sandbox patch / part of patchfinder
+- dora2-ios for part of patchfinder
