@@ -67,6 +67,10 @@ Open source iOS 8.4b4-9.3.6 32bit Semi-Untethered jailbreak
 - iOS 8.4
 - iOS 8.4 Beta 4 (Untested)
 
+# Special Note:
+
+Please back up first before trying openpwnage.
+
 ## Credits:
 
 - jailbreak made by zachary7829
