@@ -63,7 +63,7 @@ Open source iOS 8.4b4-9.3.6 32bit Semi-Untethered jailbreak
 - iOS 9.0 Beta 1
 - iOS 8.4.1
 - iOS 8.4.1 Beta 2 (Untested)
-- iOS 8.4.1 Beta 1 (Untested
+- iOS 8.4.1 Beta 1 (Untested)
 - iOS 8.4
 - iOS 8.4 Beta 4 (Untested)
 
