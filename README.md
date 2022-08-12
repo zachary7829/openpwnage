@@ -1,6 +1,10 @@
 # openpwnage
 Open source iOS 8.4b4-9.3.6 32bit Semi-Untethered jailbreak
 
+## Notice
+
+iOS 9 patchfinder is by spv, iOS 8 patchfinder (not on this repo) by dora2-iOS. Please give thanks to them. And, unless this is the only jailbreak supported for your device, you should use other jailbreaks like p0laris. This isn't the best coded and p0laris is much better coded. This notice will later be ported to iOS and future posts about openpwnage.
+
 ## Supported Devices:
 
 - iPhone 4S
