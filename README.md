@@ -92,6 +92,7 @@ changes will include:
 - barebones launch screen
 - swap back to old bootstrap because new is having issues on iOS 9
 - actual error messages with patchfinding
+- 9.0-9.2.1 bugfix
 
 not included in beta 10, but latr:
 - iOS 10.3.X support, mayb 10.X latr
@@ -99,4 +100,3 @@ not included in beta 10, but latr:
 - better theme customization
 - look into iOS 8.3, and latr complete 8.X.
 - fix the annoying console view bug
-- 9.0-9.2.1 bugfix
